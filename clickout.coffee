@@ -1,4 +1,4 @@
-# TODO test
+# TODO tests
 # TODO add example (cofee, full example, gif)
 # TODO add js and minifield version
 # TODO set minimum jQuery version
