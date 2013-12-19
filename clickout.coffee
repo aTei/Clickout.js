@@ -55,3 +55,6 @@ class Clickout
 
   defaultCloseFunc: (el) ->
     el.hide()
+    
+
+window.Clickout = Clickout
